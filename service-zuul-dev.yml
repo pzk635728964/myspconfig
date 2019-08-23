@@ -7,4 +7,4 @@ zuul:
     order-service:
       path: /order-service/**  #匹配order-service的请求app-order服务
       #url: http://localhost:8086   #真正的微服务地址
-      serviceid: app-orderee
+      serviceid: app-order
